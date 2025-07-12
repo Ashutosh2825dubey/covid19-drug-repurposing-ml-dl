@@ -1,0 +1,15 @@
+Gene ID,AverageShortestPathLength,BetweennessCentrality,ClosenessCentrality,ClusteringCoefficient,Degree,Eccentricity,IsSingleNode,NeighborhoodConnectivity,NumberOfDirectedEdges,NumberOfUndirectedEdges,PartnerOfMultiEdgedNodePairs,Radiality,selected,SelfLoops,Stress,TopologicalCoefficient
+Q8NGS4,0,0,0,0,0,0,1,0,0,0,0,inf,0,0,0,0
+Q8NGT1,0,0,0,0,0,0,1,0,0,0,0,inf,0,0,0,0
+Q96F46,1,0,1,0,1,1,0,1,0,1,0,1,0,0,0,0
+Q8WV83,0,0,0,0,0,0,1,0,0,0,0,inf,0,0,0,0
+P17302,1,0,1,0,1,1,0,1,0,1,0,1,0,0,0,0
+Q8NB50,0,0,0,0,0,0,1,0,0,0,0,inf,0,0,0,0
+Q9Y243,1,0,1,0,1,1,0,1,0,1,0,1,0,0,0,0
+Q8NGJ5,0,0,0,0,0,0,1,0,0,0,0,inf,0,0,0,0
+Q8NH42,0,0,0,0,0,0,1,0,0,0,0,inf,0,0,0,0
+P13164,0,0,0,0,0,0,1,0,0,0,0,inf,0,0,0,0
+P62854,1,0,1,0,1,1,0,1,0,1,0,1,0,0,0,0
+Q8NHC5,0,0,0,0,0,0,1,0,0,0,0,inf,0,0,0,0
+Q8NH49,0,0,0,0,0,0,1,0,0,0,0,inf,0,0,0,0
+P62851,1,0,1,0,1,1,0,1,0,1,0,1,0,0,0,0

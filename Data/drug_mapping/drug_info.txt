@@ -1,0 +1,16 @@
+DrugBank ID	Common name
+DB00001	Lepirudin
+DB00002	Cetuximab
+DB00003	Dornase alfa
+DB00004	Denileukin diftitox
+DB00005	Etanercept
+DB00006	Bivalirudin
+DB00007	Leuprolide
+DB00008	Peginterferon alfa-2a
+DB00009	Alteplase
+DB00010	Sermorelin
+DB00011	Interferon alfa-n1
+DB00012	Darbepoetin alfa
+DB00013	Urokinase
+DB00014	Goserelin
+DB00015	Reteplase
