@@ -144,6 +144,9 @@ You can regenerate these components using the feature engineering and model trai
 
 To evaluate the translational potential of the model predictions, a post-prediction drug repurposing analysis was conducted using known drug–gene mappings.
 
+The models were applied to predict essential genes from a pool of ~15,000 **previously unlabeled reviewed human genes** (sourced from UniProt).  
+To maintain the integrity of evaluation and avoid data leakage, genes from **Dataset 25** (used in training/testing) were explicitly **excluded** from this pool before prediction.
+
 ### 🧬 Gene Prediction
 | Model | Predicted Essential Genes |
 |-------|----------------------------|
